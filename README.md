@@ -1,4 +1,4 @@
-# Catalina-Dynmic
+# Big Sur-Dynmic
 Want to have macOS Big Sur dynamic wallpaper on your Gnome Desktop. You're in the right place.
 The world of open source may seem intimidating, but there’s more to it than meets the eye. Customizing your Linux system may seem like a daunting task at first, but with these simple steps, you will be up and running in no time.
 
